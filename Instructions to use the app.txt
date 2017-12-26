@@ -1,0 +1,6 @@
+1. First run tdata.py to compute your face sample
+(this only needs to be done the first time after that you can directly run the runapp application)
+
+2. Then you can run the app
+
+3. Press enter to close the app
